@@ -26,5 +26,3 @@ Beyond my professional interests, I have a deep passion for sports and enjoy fol
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=PieterJanDelie&limit=5&theme=dark&combine_all_yearly_contributions=true)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
