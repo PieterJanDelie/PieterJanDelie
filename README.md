@@ -1,12 +1,11 @@
 # 💫 About Me:
-I am passionate about developing solutions from start to finish. Whether it's designing, developing, testing, or deploying software, I find satisfaction in every aspect of the development process. Seeing projects evolve from concept to delivery and further optimization gives me great joy, allowing me to fully utilize my analytical and problem-solving skills.
+Wat mij drijft? Het volledige traject van softwareontwikkeling, van het eerste idee tot de laatste optimalisatie. Ik haal energie uit elke fase: ontwerpen, bouwen, testen en lanceren.
 
-In addition, I am a team player who strongly believes in international and interdisciplinary collaborations. My experience and studies have shown that this approach significantly enhances creativity, innovation, and problem-solving abilities. As a result, I highly value effective communication and the flexibility to adapt to changing circumstances, all while maintaining a strong focus on achieving both short- and long-term goals.
+Ik geloof sterk in de kracht van samenwerking, zeker wanneer deze disciplines overstijgt. Internationale en multidisciplinaire teams brengen frisse perspectieven en slimme oplossingen. Daarom zet ik volop in op heldere communicatie, flexibiliteit en een doelgerichte mindset.
 
-These qualities led me to pursue a degree in Applied Computer Science with a specialization in Software Development, where I built a solid foundation in software design and development. To complement my technical expertise with an international, business, and economic perspective, I am currently studying a Banaba in International Management. This allows me not only to execute complex technical projects but also to contribute more effectively to global business strategies and collaborations.
+Mijn passie voor technologie bracht me tot een opleiding Toegepaste Informatica, met een focus op Software Development. Om mijn technische kennis te verrijken met een breder zakelijk en internationaal inzicht, volg ik momenteel een Banaba in International Management. Zo sta ik sterker in zowel technische als strategische omgevingen.
 
-Beyond my professional interests, I have a deep passion for sports and enjoy following various disciplines.
-
+Buiten de code ben ik een sportliefhebber in hart en nieren. Of het nu gaat om voetbal, wielrennen of andere disciplines — sport inspireert me en houdt me scherp.
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/pieter-jan-delie/) www.linkedin.com/in/pieter-jan-delie/ <br />[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:pieterjan.delie@gmail.com) pieterjan.delie@gmail.com
